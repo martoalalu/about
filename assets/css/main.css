@@ -151,7 +151,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #26a69a !important;
+			color: #ef5350 !important;
 		}
 
 	strong, b {
@@ -2638,8 +2638,8 @@ input, select, textarea {
 					background-position: center;
 					background-repeat: no-repeat;
 					background-size: 100% 100%;
-					opacity: 0.25;
-					z-index: 2;
+					opacity: 0;
+					z-index: 0;
 				}
 
 			.tiles article > a {
